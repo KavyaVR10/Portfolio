@@ -1,4 +1,4 @@
-import './css/project.css'
+import '../Components/css/project.css'
 function Project() {
   return (
     <div className="project">
