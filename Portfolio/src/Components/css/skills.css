@@ -1,0 +1,39 @@
+.hs
+{
+  text-align: center;
+  background-image: linear-gradient(to right, #f40cbd, #0e1cd9);
+  color :black;
+  background-color: white;
+  background-size: cover;
+  background-clip: text;
+  -moz-background-clip: text;
+  -webkit-background-clip: text;
+}
+.gitems
+{
+  height:80px;
+  transition: 1s;
+}
+.gitems:hover
+{
+  transform: scale(1.2);
+  filter: drop-shadow(0 0 2em #ffffff);
+}
+.gridpl
+{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  padding: 50px;
+}
+.gridwt
+{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  padding: 50px;
+}
+.gridt{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  padding: 50px;
+  padding-right: 50px;
+}
